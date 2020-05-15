@@ -70,7 +70,10 @@
       | , and refactored by&nbsp;
       a(href="https://github.com/dsh0416/")
         | @dsh0416
-      | &nbsp;with ❤️️.
+      | , Forked by&nbsp;
+      a(href="https://github.com/wshen001/")
+        | @wshen001
+      |&nbsp;
 </template>
 
 <script>
